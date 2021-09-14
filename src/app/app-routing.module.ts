@@ -8,7 +8,7 @@ const routes: Routes = [
   {path:"addMedicamento", component:AddMedicamentoComponent}
 
 ];
-   
+    
 
 @NgModule({
   imports: [RouterModule.forRoot(routes)],
