@@ -3,7 +3,7 @@ import { CommonModule } from '@angular/common';
 import { RouterModule, Routes } from '@angular/router';
 import { AddMedicamentoComponent } from './components/add-medicamento/add-medicamento.component';
 
-// Routing addMedicamento
+// Routing addMedicamentos
 
 const routes: Routes = [
   {path:"addMedicamento", component:AddMedicamentoComponent}
